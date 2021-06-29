@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\bin\Debug\netcoreapp3.1\Line comparision model a line.exe
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\bin\Debug\netcoreapp3.1\Line comparision model a line.deps.json
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\bin\Debug\netcoreapp3.1\Line comparision model a line.runtimeconfig.json
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\bin\Debug\netcoreapp3.1\Line comparision model a line.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\bin\Debug\netcoreapp3.1\Line comparision model a line.dll
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\bin\Debug\netcoreapp3.1\Line comparision model a line.pdb
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\obj\Debug\netcoreapp3.1\Line comparision model a line.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\obj\Debug\netcoreapp3.1\Line comparision model a line.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\obj\Debug\netcoreapp3.1\Line comparision model a line.AssemblyInfo.cs
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\obj\Debug\netcoreapp3.1\Line comparision model a line.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\obj\Debug\netcoreapp3.1\Line comparision model a line.dll
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\obj\Debug\netcoreapp3.1\Line comparision model a line.pdb
+C:\Users\dell\source\repos\Line comparision model a line\Line comparision model a line\obj\Debug\netcoreapp3.1\Line comparision model a line.genruntimeconfig.cache
